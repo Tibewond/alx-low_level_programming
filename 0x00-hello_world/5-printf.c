@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+ * this is my first c program 
+ * Returm 0;
+ */
 
 int main(void)
 {
